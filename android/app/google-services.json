@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828592058238",
+    "firebase_url": "https://compreg-cc3b2-default-rtdb.firebaseio.com",
+    "project_id": "compreg-cc3b2",
+    "storage_bucket": "compreg-cc3b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828592058238:android:3af59d8e29e6ff68674d2f",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828592058238-qiedkb64hcpblisnjjnfeignhu300m3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcq62mPxMPMbNoqKT_aw8klE88OfJ54Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828592058238-qiedkb64hcpblisnjjnfeignhu300m3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
